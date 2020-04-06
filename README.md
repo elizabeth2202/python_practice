@@ -1,1 +1,1 @@
-# python_practice
+Solving various training tasks in data analytics and machine learning.
